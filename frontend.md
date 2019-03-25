@@ -19,7 +19,12 @@
 ## Nice-to-Haves (Optional)
 
 1. Mobile friendly
-2. Additonal UI features to enhance user experience
+2. Additonal UI features to enhance user experience, e.g. field validation, animation, etc.
+3. Server-side rendering (SSR)
+4. Typescript
+5. ES6 features
+6. Test on core functions
+7. Optimization
 
 ## Wireframes
 
